@@ -1,5 +1,5 @@
 train: ../train_data/images
-val: ../test_data/images
+val: ../val_data/images
 
 nc: 5
 names: ['pizza','french fries','burger','sushi','ice cream']

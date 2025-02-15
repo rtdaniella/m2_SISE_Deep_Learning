@@ -1,0 +1,14 @@
+train: ../train/images
+val: ../valid/images
+
+
+nc: 2
+names: ['area', 'type_indicator']
+
+
+roboflow:
+  workspace: ons-abderrahim
+  project: resume-parser2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ons-abderrahim/resume-parser2/dataset/2
